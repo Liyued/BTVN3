@@ -1,11 +1,11 @@
-import SideImage from "./assets/SideImage/SideImage";
-import Header from "./assets/Header/Header";
-import Input from "./assets/Input/Input";
-import Checkbox from "./assets/Checkbox/Checkbox";
-import Button from "./assets/Button/Button";
-import Linebreak from "./assets/Linebreak/Linebreak";
-import LoginOptions from "./assets/LoginOptions/LoginOptions";
-import Footer from "./assets/Footer/Footer";
+import SideImage from "./components/SideImage/SideImage";
+import Header from "./components/Header/Header";
+import Input from "./components/Input/Input";
+import Checkbox from "./components/Checkbox/Checkbox";
+import Button from "./components/Button/Button";
+import Linebreak from "./components/Linebreak/Linebreak";
+import LoginOptions from "./components/LoginOptions/LoginOptions";
+import Footer from "./components/Footer/Footer";
 import "./App.css";
 function App() {
   return (
