@@ -12,8 +12,8 @@ function LoginOption(props) {
 function LoginOptions() {
   return (
     <div className={styles.container}>
-      <LoginOption img="./google.jpg" option="Google" />
-      <LoginOption img="./apple.jpg" option="Apple" />
+      <LoginOption img="src/assets/google.jpg" option="Google" />
+      <LoginOption img="src/assets/apple.jpg" option="Apple" />
     </div>
   );
 }
